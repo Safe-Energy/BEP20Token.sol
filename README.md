@@ -1,1 +1,1 @@
-# BEP20Token.sol
+# EnergyX Token
