@@ -21,7 +21,7 @@
 
 
     TELEGRAM: https://t.me/OfficialSafeEnergyX
-    TWITTER : https://twitter.com/SafeEnergyX
+    TWITTER : https://twitter.com/OfficialEnergyX
     
     WEBSITE : https://safeenergyx.io/
     
